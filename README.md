@@ -1,10 +1,8 @@
 # Purpose
 
-"Designing Data-Intensive Applications" equips engineers with the essential knowledge to:
-
 1. **Data system deep dive**: Develop a deep understanding of the underlying principles of different database technologies, enabling you to make informed decision based on your specific requirements rather than following trends.
 
-2. **Design Robust Data Systems**: Learn how to architect systems that efficiently handle data storage, retrieval, and processing at scale, while maintaining reliability under varying loads and in the face of faults.
+2. **Design Robust Data Systems**: Learn how to architect systems that efficiently handle data storage, and processing at scale, while maintaining reliability under varying loads and in the face of faults.
 
 # Format
 
@@ -29,7 +27,7 @@ Summary: https://g.co/gemini/share/fc5bc7219fa6
 
 ### Chapter 2
 - [x] Relational model vs document model
-- [x] Query language for data
+- [x] Query languages for data
 - [ ] Graph-like data models 
 
 
