@@ -26,3 +26,10 @@
 - [x] Maintainability
 
 Summary: https://gemini.google.com/share/18611417ebda
+
+### Chapter 2
+- [x] Relational model vs document model
+- [x] Query language for data
+- [ ] Graph-like data models 
+
+
