@@ -2,7 +2,7 @@
 
 "Designing Data-Intensive Applications" equips engineers with the essential knowledge to:
 
-1. **Make Informed Technology Decisions**: Develop a deep understanding of the underlying principles of different database technologies, enabling you to select the right tools based on your specific requirements rather than following trends.
+1. **Database foundation deep dive**: Develop a deep understanding of the underlying principles of different database technologies, enabling you to make informed decision based on your specific requirements rather than following trends.
 
 2. **Design Robust Data Systems**: Learn how to architect systems that efficiently handle data storage, retrieval, and processing at scale, while maintaining reliability under varying loads and in the face of faults.
 
@@ -18,3 +18,6 @@
 - Regular knowledge check discussions during weekly meetings
 - One final programming exercise to apply learned concepts
 
+# Content
+Chatper 1
+- [x] 
