@@ -23,7 +23,7 @@
 - [x] Scalability
 - [x] Maintainability
 
-Summary: https://g.co/gemini/share/fc5bc7219fa6
+Summary: https://gemini.google.com/share/95fb5fead34e
 
 ### Chapter 2
 - [x] Relational model vs document model
