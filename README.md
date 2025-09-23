@@ -30,4 +30,5 @@ Summary: https://g.co/gemini/share/2d1ec41518c0
 - [x] Query languages for data
 - [ ] Graph-like data models 
 
+Summary: https://g.co/gemini/share/895674d28eb6
 
