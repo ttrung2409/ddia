@@ -32,3 +32,9 @@ Summary: https://g.co/gemini/share/2d1ec41518c0
 
 Summary: https://g.co/gemini/share/895674d28eb6
 
+### Chapter 3
+- [x] Data structures that power your database
+- [x] Transaction processing or analytics
+- [ ] Column-oriented storage
+
+Summary: https://g.co/gemini/share/62e6019a92b4
