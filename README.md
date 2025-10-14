@@ -37,4 +37,4 @@ Summary: https://g.co/gemini/share/895674d28eb6
 - [x] Transaction processing or analytics
 - [ ] Column-oriented storage
 
-Summary: https://g.co/gemini/share/88d8189cbf4f
+Summary: https://g.co/gemini/share/bbe583dea636
