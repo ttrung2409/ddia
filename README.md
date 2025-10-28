@@ -17,7 +17,7 @@
 - One final programming exercise to apply learned concepts
 
 # Content
-### Chapter 1
+### Chapter 1: Reliable, Scalable, and Maintainable Applications
 - [x] Thinking about data system
 - [x] Reliability
 - [x] Scalability
@@ -25,16 +25,24 @@
 
 Summary: https://g.co/gemini/share/2d1ec41518c0
 
-### Chapter 2
+### Chapter 2: Data Models and Query Languages
 - [x] Relational model vs document model
 - [x] Query languages for data
 - [ ] Graph-like data models 
 
 Summary: https://g.co/gemini/share/895674d28eb6
 
-### Chapter 3
+### Chapter 3: Storage and Retrieval
 - [x] Data structures that power your database
 - [x] Transaction processing or analytics
 - [ ] Column-oriented storage
 
 Summary: https://g.co/gemini/share/bbe583dea636
+
+### Chapter 5: Replication
+- [x] Single-leader replication
+- [x] Problems with Replication Lag
+- [x] Multi-leader replication
+- [x] Leaderless replication
+      
+Summary: https://gemini.google.com/share/c742172d13fd
