@@ -45,4 +45,4 @@ Summary: https://g.co/gemini/share/bbe583dea636
 - [x] Multi-leader replication
 - [x] Leaderless replication
       
-Summary: https://gemini.google.com/share/c742172d13fd
+Summary: https://gemini.google.com/share/0734c0cfe4f7
