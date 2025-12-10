@@ -46,3 +46,12 @@ Summary: https://g.co/gemini/share/bbe583dea636
 - [x] Leaderless replication
       
 Summary: https://gemini.google.com/share/0734c0cfe4f7
+
+### Chatper 6: Partitioning
+- [x] Partitioning and Replication
+- [x] Partitioning of Key-Value Data
+- [x] Partitioning and Secondary Indexes
+- [x] Rebalance Partitions
+- [x] Request Routing
+
+Summary: https://gemini.google.com/share/4eb7b207dca3
